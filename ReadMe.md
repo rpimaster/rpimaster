@@ -1,5 +1,29 @@
-# About Me:
-👋 Hi there! I'm rpimaster<br>I'm a high school student with a passion for coding and creativity! 🚀<br>Programming started as a hobby, but it's become one of my favorite ways to solve problems and build cool projects.<br><br>🛠️ My Skills & Interests<br>Languages:<br>🐍 Python (my go-to for fun projects and learning new things!)<br>🌐 HTML, CSS, and JavaScript (crafting websites and exploring front-end development)<br><br>What I love:<br>Experimenting with Python libraries and small automation projects<br>Designing and building user-friendly websites<br>Learning something new every day in the world of tech<br><br>Current Goals<br>Continue building my homelab and experiment a lot with it<br>Dive deeper into backend technologies in the future<br>Collaborate with other developers on open-source projects<br><br>📬 Connect With Me<br>Feel free to reach out if you'd like to chat, collaborate, or share ideas!
+# About Me
+
+Hi, I'm **rpimaster** (Damian)
+
+I'm a high school student turning my passion for coding into real projects. What started as a hobby quickly became my favorite way to solve problems and build things from scratch. 🚀
+
+### 🛠️ Skills & Interests
+- **🐍 Python** – my main language for automation, scripts and fun experiments
+- **🌐 HTML, CSS & JavaScript** – creating responsive websites and improving my front-end skills
+
+**What I enjoy most:**
+- Building small automation tools and bots
+- Designing clean, user-friendly web interfaces
+- Experimenting with new libraries and technologies
+- Running my own **homelab** on Raspberry Pi (Docker, self-hosted services, networking…)
+
+### 🎯 Current Goals
+- Deepen my knowledge of backend technologies (Node.js / Python web frameworks)
+- Grow my homelab with more useful services
+- Contribute to open-source projects and collaborate with others
+- Keep shipping small but polished projects
+
+---
+
+📬 **Connect with me**  
+Feel free to reach out if you want to chat about code, share ideas, or collaborate!  
 
 
 ## 🌐 Socials:
