@@ -2,13 +2,13 @@
 
 Hi, I'm **rpimaster** (Damian)
 
-I'm a high school student turning my passion for coding into real projects. What started as a hobby quickly became my favorite way to solve problems and build things from scratch. 🚀
+I'm a high school student turning my passion for coding into real projects. What started as a hobby quickly became my favorite way to solve problems and build things from scratch. 
 
 ### 🛠️ Skills & Interests
 - **🐍 Python** – my main language for automation, scripts and fun experiments
 - **🌐 HTML, CSS & JavaScript** – creating responsive websites and improving my front-end skills
 
-**What I enjoy most:**
+### What I enjoy most:
 - Building small automation tools and bots
 - Designing clean, user-friendly web interfaces
 - Experimenting with new libraries and technologies
