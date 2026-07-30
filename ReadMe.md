@@ -13,7 +13,7 @@ glucose values, trends, alerts and predictions.
 - Dexcom and Nightscout integration
 - Windows, macOS and Linux support
 
-[View repository] | [Project website]
+[View repository](https://github.com/rpimaster/DexMate) | [Project website](https://dex-mate.com/)
 
 ### Klokani Humenné
 Website and digital platform created for a real futsal organisation.
@@ -22,7 +22,7 @@ Website and digital platform created for a real futsal organisation.
 - Content and social-media integration
 - Ongoing development based on real organisational needs
 
-[View project]
+[View project](https://klokanifutsal.com/)
 
 ## Currently learning
 
