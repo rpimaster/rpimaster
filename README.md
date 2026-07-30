@@ -15,6 +15,7 @@ glucose values, trends, alerts and predictions.
 
 [View repository](https://github.com/damianjanuch/DexMate) | [Project website](https://dex-mate.com/)
 
+
 ### Klokani Humenné
 Website and digital presence created for a real futsal organisation.
 
@@ -23,6 +24,7 @@ Website and digital presence created for a real futsal organisation.
 - Ongoing development based on real organisational needs
 
 [View project](https://klokanifutsal.com/)
+
 
 ## Currently learning
 
